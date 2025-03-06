@@ -9,7 +9,7 @@
    <br>
     Begin by cloning the repository to your local machine. Open your terminal and execute the following command:  
     ```sh
-    git clone https://github.com/LokeshKumar710/Password-Generator.git
+    https://github.com/adithya0910/password-generator.git
     ```
 
 3. **Install Go Live Server Extension:**
